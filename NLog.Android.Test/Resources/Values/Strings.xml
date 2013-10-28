@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="Hello">Hello World, Click Me!</string>
+    <string name="ApplicationName">NLog.Android.Test</string>
+    <string name="TraceLabel">Send a Trace Message</string>
+    <string name="DebugLabel">Send a Debug Message</string>
+    <string name="InfoLabel">Send a Info Message</string>
+    <string name="WarnLabel">Send a Warn Message</string>
+    <string name="ErrorLabel">Send a Error Message</string>
+    <string name="FatalLabel">Send a Fatal Message</string>
+</resources>
